@@ -10,7 +10,7 @@ My primary professional interests are **Data Governance, Data Engineering, Data 
 
 I am currently pursuing a **Master of Science in Computer Information Systems & Business Analytics at West Texas A&M University**, where I am developing practical experience across data management, analytics, software systems, databases, networking, cybersecurity, and software architecture.
 
-I am also a **Certified Data Management Professional (CDMP)** and hold an **MBA from the University of Sunderland** and a **B.Sc. in Economics from the University of Lagos**.
+I am currently pursuing a **Master of Science in Computer Information Systems & Business Analytics at West Texas A&M University**. I am also a **Certified Data Management Professional (CDMP)** and hold an **MBA from the University of Sunderland** and a **B.Sc. in Economics from the University of Lagos**.
 
 ---
 

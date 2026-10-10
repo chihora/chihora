@@ -2,15 +2,13 @@
 
 ## Data Governance | Data Engineering | Data Quality | Metadata Management
 
-**CDMP | SQL | Python | ETL | Power BI | Cloud Security**
+**CDMP | M.S. Computer Information Systems & Business Analytics | MBA**
 
-I am a **data management and technology professional** focused on helping organizations build trusted, secure, high-quality, and well-governed data environments.
+**SQL | Python | ETL | Power BI | Cloud Security**
 
-My primary professional interests are **Data Governance, Data Engineering, Data Quality, and Metadata Management**, supported by hands-on experience and continued development in **Python, SQL, ETL, Business Intelligence, Data Architecture, Cybersecurity, and Cloud Security**.
+I am a data management and technology professional focused on helping organizations build trusted, secure, high-quality, and well-governed data environments.
 
-I am currently pursuing a **Master of Science in Computer Information Systems & Business Analytics at West Texas A&M University**, where I am developing practical experience across data management, analytics, software systems, databases, networking, cybersecurity, and software architecture.
-
-I am currently pursuing a **Master of Science in Computer Information Systems & Business Analytics at West Texas A&M University**. I am also a **Certified Data Management Professional (CDMP)** and hold an **MBA from the University of Sunderland** and a **B.Sc. in Economics from the University of Lagos**.
+I am currently pursuing a **Master of Science in Computer Information Systems & Business Analytics at West Texas A&M University**. I am also a **Certified Data Management Professional (CDMP)** and hold an **MBA from the University of Sunderland** and a **B.Sc. in Economics from the University of Lagos**. 
 
 ---
 

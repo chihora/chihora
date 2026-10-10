@@ -1,6 +1,6 @@
 # Hi, I'm Francis Kelechi Njoku 👋
 
-## Data Governance | Data Engineering | Data Quality | Metadata Management | Cloud Secrity
+## Data Governance | Data Engineering | Data Quality | Metadata Management | Cloud Security
 
 **CDMP | M.S. Computer Information Systems & Business Analytics | MBA**
 

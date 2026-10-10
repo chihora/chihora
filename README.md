@@ -1,10 +1,10 @@
 # Hi, I'm Francis Kelechi Njoku 👋
 
-## Data Governance | Data Engineering | Data Quality | Metadata Management
+## Data Governance | Data Engineering | Data Quality | Metadata Management | Cloud Secrity
 
 **CDMP | M.S. Computer Information Systems & Business Analytics | MBA**
 
-**SQL | Python | ETL | Power BI | Cloud Security**
+**SQL | Python | ETL | Power BI**
 
 I am a data management and technology professional focused on helping organizations build trusted, secure, high-quality, and well-governed data environments.
 
